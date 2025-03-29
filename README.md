@@ -25,11 +25,7 @@
             <a href="mailto:xiyuanyang0830@gmail.com">xiyuanyang0830@gmail.com</a>
         </ul>
 
-    <h3>My Github</h3>
-        <a href="https://github.com/xiyuanyang-code">xiyuanyang-code</a>
-        <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xiyuanyang-code" alt="xiyuanyang-code" /></a> </p>
-    <h3>My ORCID</h3>
-        <a href="https://orcid.org/0009-0004-8979-7892">Xiyuan Yang</a>
+    
 </section>
 
 <section>
