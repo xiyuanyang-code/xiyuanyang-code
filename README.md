@@ -1,11 +1,12 @@
 <header>
-    <h1>Welcome to Xiyuan Yang's Coding Space!</h1>
+    <h1>Hello, I am Xiyuan Yang!👋👋👋😍</h1>
 </header>
 
 
 <section>
     <h2>About Me</h2>
     <p>I am <b>Xiyuan Yang (杨希渊)</b>, a student at Shanghai Jiao Tong University, School of Artificial Intelligence. I am currently pursuing bachelor's degree in artificial intelligence, interested in <b>Reinforcement Learning, multi-agent systems and LLM reasoning</b>.</p>
+    <p>For more information, you can see <a href="https://xiyuanyang-code.github.io/resume">My Resume</a> for help!</p>
 </section>
 
 <section>
@@ -13,18 +14,10 @@
     <ul>
         <a href="https://xiyuanyang-code.github.io">My personal Blog</a>
     </ul>
-    <h3>My email</h3>
-        <ul>
-            <a href="mailto:xiyuan__yang@outlook.com">xiyuan__yang@outlook.com</a>
-            <a><b> (Most Frequently Used)</b></a>
-        </ul>
-        <ul>
-            <a href="mailto:yangxiyuan@sjtu.edu.cn">yangxiyuan@sjtu.edu.cn</a>
-        </ul>
-        <ul>
-            <a href="mailto:xiyuanyang0830@gmail.com">xiyuanyang0830@gmail.com</a>
-        </ul>
-
+    <ul>
+        <a href="mailto:yangxiyuan@sjtu.edu.cn">yangxiyuan@sjtu.edu.cn</a>
+    </ul>
+    
     
 </section>
 
@@ -32,6 +25,7 @@
     <h2>Currently Learning</h2>
     <ul>
         <li>Advanced C++</li>
+        <li>Data Structure and Advanced Algorithms.</li>
         <li>Machine Learning and Deep Learning</li>
         <li>LLM reasoning and LLM agents</li>
         <li>Full-stack Development</li>
@@ -41,40 +35,54 @@
 
 <section>
     <h2>Languages and Tools</h2>
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin: 10px;"/>
-    </a>
-</div>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+                <h3>Programming Languages & Tools</h3>
+                <ul class="list-inline dev-icons">
+                    <i class="devicon-cplusplus-plain"></i>
+                    <i class="devicon-c-plain"></i>
+                    <i class="devicon-python-plain"></i>
+                    <i class="devicon-html5-plain"></i>
+                    <i class="devicon-rust-plain"></i>
+                    <i class="devicon-docker-plain"></i>
+                    <i class="devicon-bash-plain"></i>
+                    <i class="devicon-git-plain"></i>
+                    <i class="devicon-latex-plain"></i>
+                    <i class="devicon-linux-plain"></i>
+                    <br>
+                    <i class="devicon-numpy-plain"></i>
+                    <i class="devicon-pytorch-plain"></i>
+                    <i class="devicon-matplotlib-plain"></i>
+                    <i class="devicon-pandas-plain"></i>
+                    <!-- <i class="devicon-github-plain"></i> -->
+                    <!-- <li class="list-inline-item"><i class="fab fa-npm"></i></li> -->
+                </ul>
+                <h3>Machine Learning & Deep Learning</h3>
+                <ul class="fa-ul mb-0">
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>
+                        Proficient in various neural network architectures and training methodologies.
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>
+                        Familiar with agents and reinforcement learning.
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>
+                        Skilled in utilizing the PyTorch library.
+                    </li>
+                </ul>
+
 </section>
 
 ## My Github
+<section>
+<p><b>I am always an active commiter! Love Coding Everyday! 🫡😍</b></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xiyuanyang-code" alt="xiyuanyang-code" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=xiyuanyang-code&margin-w=20&margin-h=15&no-bg=true&row=1" alt="xiyuanyang-code"/></a> </p>
 
-<p align="left">
-</p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=xiyuanyang-code&"alt="xiyuanyang-code" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiyuanyang-code&show_icons=true&locale=en&layout=compact" alt="xiyuanyang-code" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiyuanyang-code&show_icons=true&locale=en" alt="xiyuanyang-code" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiyuanyang-code&" alt="xiyuanyang-code" /></p>
-
-
+</section>
 <section>
     <h2>Grades</h2>
     <b>
