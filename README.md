@@ -37,7 +37,7 @@
     <h2>Languages and Tools</h2>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
                 <h3>Programming Languages & Tools</h3>
-                <ul class="list-inline dev-icons">
+                <ul>
                     <i class="devicon-cplusplus-plain"></i>
                     <i class="devicon-c-plain"></i>
                     <i class="devicon-python-plain"></i>
@@ -57,7 +57,7 @@
                     <!-- <li class="list-inline-item"><i class="fab fa-npm"></i></li> -->
                 </ul>
                 <h3>Machine Learning & Deep Learning</h3>
-                <ul class="fa-ul mb-0">
+                <ul>
                     <li>
                         <span class="fa-li"><i class="fas fa-check"></i></span>
                         Proficient in various neural network architectures and training methodologies.
