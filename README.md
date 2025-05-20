@@ -37,26 +37,22 @@
     <h2>Languages and Tools</h2>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
                 <h3>Programming Languages & Tools</h3>
-                <ul>
-                    Hello
-                    <i class="devicon-cplusplus-plain"></i>
-                    <i class="devicon-c-plain"></i>
-                    <i class="devicon-python-plain"></i>
-                    <i class="devicon-html5-plain"></i>
-                    <i class="devicon-rust-plain"></i>
-                    <i class="devicon-docker-plain"></i>
-                    <i class="devicon-bash-plain"></i>
-                    <i class="devicon-git-plain"></i>
-                    <i class="devicon-latex-plain"></i>
-                    <i class="devicon-linux-plain"></i>
-                    <br>
-                    <i class="devicon-numpy-plain"></i>
-                    <i class="devicon-pytorch-plain"></i>
-                    <i class="devicon-matplotlib-plain"></i>
-                    <i class="devicon-pandas-plain"></i>
-                    <!-- <i class="devicon-github-plain"></i> -->
-                    <!-- <li class="list-inline-item"><i class="fab fa-npm"></i></li> -->
-                </ul>
+                <ul style="list-style: none; display: flex; flex-wrap: wrap; gap: 10px; padding: 0;">
+    <li><i class="devicon-cplusplus-plain"></i></li>
+    <li><i class="devicon-c-plain"></i></li>
+    <li><i class="devicon-python-plain"></i></li>
+    <li><i class="devicon-html5-plain"></i></li>
+    <li><i class="devicon-rust-plain"></i></li>
+    <li><i class="devicon-docker-plain"></i></li>
+    <li><i class="devicon-bash-plain"></i></li>
+    <li><i class="devicon-git-plain"></i></li>
+    <li><i class="devicon-latex-plain"></i></li>
+    <li><i class="devicon-linux-plain"></i></li>
+    <li><i class="devicon-numpy-plain"></i></li>
+    <li><i class="devicon-pytorch-plain"></i></li>
+    <li><i class="devicon-matplotlib-plain"></i></li>
+    <li><i class="devicon-pandas-plain"></i></li>
+</ul>
                 <h3>Machine Learning & Deep Learning</h3>
                 <ul>
                     <li>
