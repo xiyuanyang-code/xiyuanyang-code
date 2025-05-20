@@ -74,6 +74,8 @@
 <section>
 <p><b>I am always an active commiter! Love Coding Everyday! 🫡😍</b></p>
 
+<img src="https://ghchart.rshah.org/xiyuanyang-code" alt="Xiyuan Yang's Github Contributions" />
+
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=xiyuanyang-code&margin-w=20&margin-h=15&no-bg=true&row=1" alt="xiyuanyang-code"/></a> </p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=xiyuanyang-code&show_icons=true&locale=en" alt="xiyuanyang-code" /></p>
