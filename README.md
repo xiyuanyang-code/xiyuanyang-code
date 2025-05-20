@@ -35,24 +35,23 @@
 
 <section>
     <h2>Languages and Tools</h2>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-                <h3>Programming Languages & Tools</h3>
-                <ul style="list-style: none; display: flex; flex-wrap: wrap; gap: 10px; padding: 0;">
-    <li><i class="devicon-cplusplus-plain"></i></li>
-    <li><i class="devicon-c-plain"></i></li>
-    <li><i class="devicon-python-plain"></i></li>
-    <li><i class="devicon-html5-plain"></i></li>
-    <li><i class="devicon-rust-plain"></i></li>
-    <li><i class="devicon-docker-plain"></i></li>
-    <li><i class="devicon-bash-plain"></i></li>
-    <li><i class="devicon-git-plain"></i></li>
-    <li><i class="devicon-latex-plain"></i></li>
-    <li><i class="devicon-linux-plain"></i></li>
-    <li><i class="devicon-numpy-plain"></i></li>
-    <li><i class="devicon-pytorch-plain"></i></li>
-    <li><i class="devicon-matplotlib-plain"></i></li>
-    <li><i class="devicon-pandas-plain"></i></li>
-</ul>
+    <h3>Programming Languages & Tools</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="Rust"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+</p>
                 <h3>Machine Learning & Deep Learning</h3>
                 <ul>
                     <li>
