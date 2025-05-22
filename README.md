@@ -17,7 +17,9 @@
     <ul>
         <a href="mailto:yangxiyuan@sjtu.edu.cn">yangxiyuan@sjtu.edu.cn</a>
     </ul>
-    
+    <ul>
+        <a href="https://xiyuanyang-code.github.io/resume/">My Resume</a>
+    </ul>
     
 </section>
 
