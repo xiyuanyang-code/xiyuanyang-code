@@ -26,11 +26,11 @@
 <section>
     <h2>Currently Learning</h2>
     <ul>
-        <li>Advanced C++</li>
-        <li>Data Structure and Advanced Algorithms.</li>
+        <li>Advanced Algorithms</li>
         <li>Machine Learning and Deep Learning</li>
         <li>LLM reasoning and LLM agents</li>
         <li>Full-stack Development</li>
+        <li>Probability and Statistics</li>
     </ul>
 </section>
 
