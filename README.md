@@ -6,7 +6,7 @@
 <section>
     <h2>About Me</h2>
     <p>I am <b>Xiyuan Yang (杨希渊)</b>, a student at Shanghai Jiao Tong University, School of Artificial Intelligence. I am currently pursuing bachelor's degree in artificial intelligence, interested in <b>Reinforcement Learning, multi-agent systems and LLM reasoning</b>.</p>
-    <p>For more information, you can see <a href="https://xiyuanyang-code.github.io/resume">My Resume</a> for help!</p>
+    <p>For more information, please goto <a href="https://xiyuanyang-code.github.io/resume">My Resume</a>.</p>
 </section>
 
 <section>
@@ -26,9 +26,9 @@
 <section>
     <h2>Currently Learning</h2>
     <ul>
-        <li>Advanced Algorithms</li>
+        <!-- <li>Advanced Algorithms</li> -->
         <li>Machine Learning and Deep Learning</li>
-        <li>LLM reasoning and LLM agents</li>
+        <li>LLM reasoning, LLM agents and Reinforcement Learning</li>
         <li>Full-stack Development</li>
         <li>Probability and Statistics</li>
     </ul>
@@ -38,37 +38,36 @@
 <section>
     <h2>Languages and Tools</h2>
     <h3>Programming Languages & Tools</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" height="40" alt="Rust"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-</p>
-                <h3>Machine Learning & Deep Learning</h3>
-                <ul>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-check"></i></span>
-                        Proficient in various neural network architectures and training methodologies.
-                    </li>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-check"></i></span>
-                        Familiar with agents and reinforcement learning.
-                    </li>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-check"></i></span>
-                        Skilled in utilizing the PyTorch library.
-                    </li>
-                </ul>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+    <h3>Machine Learning & Deep Learning</h3>
+    <ul>
+        <li>
+            <span class="fa-li"><i class="fas fa-check"></i></span>
+            Proficient in various neural network architectures and training methodologies.
+        </li>
+        <li>
+            <span class="fa-li"><i class="fas fa-check"></i></span>
+            Familiar with agents.
+        </li>
+        <li>
+            <span class="fa-li"><i class="fas fa-check"></i></span>
+            Skilled in utilizing the PyTorch library.
+        </li>
+    </ul>
 
 </section>
 
@@ -87,18 +86,16 @@
 </section>
 <section>
     <h2>Grades</h2>
-    <b>
-        GPA: 4.1/4.3
+        GPA: 4.13/4.3 (Ranking: <b>1</b> among 63)
         <br>
         Score: 93.6/100
-        <br>
-        Ranking: 1/63
-    </b>
     <ul class="grades">
         <li>Linear Algebra (Honor): <b>A+ (98)</b></li>
         <li>Fundamental of Programming (Honor): <b>A+ (98)</b></li> 
+        <li>Physics I (Honor): <b>A+ (96)</b></li>
         <li>Introduction to Artificial Intelligence: <b>A+ (95)</b></li>
     </ul>
+    <b>16</b> courses achieved A/A+, including <b>all major-related courses</b>, with <b>8</b> courses earning A+.
 </section>
 
 <footer>
