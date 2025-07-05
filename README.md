@@ -36,8 +36,8 @@
 
 
 <section>
-    <h2>Languages and Tools</h2>
-    <h3>Programming Languages & Tools</h3>
+    Languages and Tools
+    Programming Languages & Tools
 <!-- <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="24" alt="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="24" alt="C"/>
