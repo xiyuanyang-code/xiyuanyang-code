@@ -3,11 +3,10 @@
 </header>
 
 <!-- feat: add what i am doing -->
-<section>
-    <li>I am working on <b>a multi-agent system</b> for GUI-Agent.</li>
-    <li>I am studying reinforcement learning and more advanced techniques of transformers.</li>
-    <li>I am working on <b>Factor Mining</b> for my summer project.</li>
-    <li>I am very happy because the summer vacation is coming!</li>
+<section> 
+    <li>Currently developing <b>a multi-agent system</b> for GUI automation applications.</li> 
+    <li>Learning advanced reinforcement learning techniques and transformer architectures.</li> 
+    <li>Leading a summer research project focused on <b>Factor Mining</b> methodologies.</li> 
 </section>
 
 
