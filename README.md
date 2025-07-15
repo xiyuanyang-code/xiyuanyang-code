@@ -12,7 +12,8 @@
 
 <section>
     <h2>About Me</h2>
-    <p>I am <b>Xiyuan Yang (杨希渊)</b>, a student at Shanghai Jiao Tong University, School of Artificial Intelligence. I am currently pursuing bachelor's degree in artificial intelligence, interested in <b>Reinforcement Learning, multi-agent systems and LLM reasoning</b>.</p>
+<!--     <p>I am <b>Xiyuan Yang (杨希渊)</b>, a student at Shanghai Jiao Tong University, School of Artificial Intelligence. I am currently pursuing bachelor's degree in artificial intelligence, interested in <b>Reinforcement Learning, multi-agent systems and LLM reasoning</b>.</p> -->
+    <p>I am Xiyuan Yang (杨希渊), a rising sophomore pursuing a Bachelor's degree in <b>Artificial Intelligence</b> at <b>Shanghai Jiao Tong University (SJTU)</b>, School of Artificial Intelligence. My academic interests lie in Multi-Agent Systems, and LLM Reasoning</p>
     <p>For more information, please goto <a href="https://xiyuanyang-code.github.io/resume">My Resume</a>.</p>
 </section>
 
