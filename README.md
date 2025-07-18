@@ -81,7 +81,7 @@
 
 </section>
 
-## My Github
+## 📊 GitHub Stats:
 <section>
 <p><b>I am always an active commiter! Love Coding Everyday! 🫡😍</b></p>
 
@@ -89,9 +89,10 @@
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=xiyuanyang-code&margin-w=20&margin-h=15&no-bg=true&row=1" alt="xiyuanyang-code"/></a> </p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=xiyuanyang-code&show_icons=true&locale=en" alt="xiyuanyang-code" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=xiyuanyang-code&show_icons=true&theme=chartreuse&hide_border=false&include_all_commits=true&count_private=true&hide_title=false&show=prs_merged,issues_closed&rank_icon=percentile" alt="xiyuanyang-code" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=xiyuanyang-code&"alt="xiyuanyang-code" /></p>
+
 
 </section>
 <section>
