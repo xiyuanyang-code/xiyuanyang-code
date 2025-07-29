@@ -48,7 +48,7 @@
     <h3>Programming Languages & Tools</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:40px;width:auto;max-width:40px;" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:40px;width:auto;max-width:40px;" alt="C"/>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:40px;width:auto;max-width:40px;" alt="C"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:40px;width:auto;max-width:40px;" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Rust"/>
