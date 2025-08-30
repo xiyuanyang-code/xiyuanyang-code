@@ -8,7 +8,7 @@
     <li>Currently learning Rust.🦀</li>
     <li>Leading a summer research project focused on <b>Timing Strategy</b> methodologies.</li> 
     <li>Learning Fundamental architectures and tuning methods of Large Language Models.</li>
-    <li>Always writing techinical blogs on my personal website: <a href="https://xiyuanyang-code.github.io/">Xiyuan Yang's Blog</a>.</li>
+    <li>Always writing technical blogs on my personal website: <a href="https://xiyuanyang-code.github.io/">Xiyuan Yang's Blog</a>.</li>
 </section>
 
 
