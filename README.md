@@ -5,7 +5,8 @@
 - Currently developing ProbeCode (<a href="https://github.com/xiyuanyang-code/ProbeCode">Source Code</a>), a coding agent.
     - More development projects are detailed in [ToolZoo](https://xiyuanyang-code.github.io/Tool-Zoo/developer.html).
 - Currently learning Rust. 🦀
-- Leading a summer research project focused on <b>Timing Strategy</b> methodologies.
+- Working on a research project focused on <b>Timing Strategy</b> methodologies.
+- Interested in multi-agent architectures, currently working on agent's benchmark.
 - Learning CS336 and CS224n, including fundamental architectures and tuning methods of Large Language Models.
 - Always writing technical blogs on my personal website: <a href="https://xiyuanyang-code.github.io/">Xiyuan Yang's Blog</a>.
 
