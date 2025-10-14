@@ -6,6 +6,8 @@
 - My research interests lie in **constructing general autonomous agents** and **multi-agent collaborations**.
     - Current Work about Agentic Tool Usage and MCP for ICLR-2026, [Info-Mosaic](https://dorothyduuu.github.io/Info-Mosaic/).
     - Currently developing Coding Agent: ProbeCode (<a href="https://github.com/xiyuanyang-code/ProbeCode">Source Code</a>).
+    - Successfully deployed **PaperPulse**, Your Daily Latest Paper Acquisition Assistant, automatically pushing trending papers and Github repos with AI summary.
+        - To the [Latest Release](https://github.com/xiyuanyang-code/PaperPulse/releases/latest). 
     - More development projects are detailed in [ToolZoo](https://xiyuanyang-code.github.io/Tool-Zoo/developer.html).
 - In my downtime, I like to study stock time series prediction and quantitative factor mining. 
     - Working on a research project focused on <b>Timing Strategy</b> methodologies.
