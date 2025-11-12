@@ -21,7 +21,7 @@
 <section>
 <h2>About Me</h2>
 <p>I am Xiyuan Yang (杨希渊), a rising sophomore pursuing a Bachelor's degree in <b>Artificial Intelligence</b> at <b>Shanghai Jiao Tong University (SJTU)</b>, School of Artificial Intelligence. My academic interests lie in agents.</p>
-<p>For more information, please goto <a href="https://xiyuanyang-code.github.io/resume">My Resume</a>.</p>
+<p>For more information, please goto <a href="https://xiyuanyang-code.github.io/cv">My Resume</a>.</p>
 </section>
 
 <section>
@@ -33,7 +33,7 @@
         <a href="mailto:yangxiyuan@sjtu.edu.cn">yangxiyuan@sjtu.edu.cn</a>
     </li>
     <li>
-        <a href="https://xiyuanyang-code.github.io/resume/">My Resume</a>
+        <a href="https://xiyuanyang-code.github.io/cv/">My Resume</a>
     </li>
     
 </section>
