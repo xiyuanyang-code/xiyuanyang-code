@@ -102,21 +102,6 @@
 
 
 </section>
-<section>
-    <h2>Grades</h2>
-        GPA: 4.14/4.3 (Ranking: <b>1</b> among 63)
-        <br>
-        Score: 94.0/100
-    <ul class="grades">
-        <li>Comprehensive Programming Practice: <b>A+ (100)</b></li>
-        <li>Linear Algebra (Honor): <b>A+ (98)</b></li>
-        <li>Fundamental of Programming (Honor): <b>A+ (98)</b></li> 
-        <li>Physics I (Honor): <b>A+ (96)</b></li>
-        <li>Mathematical Analysis II (Honor): <b>A+ (95)</b></li>
-        <li>Introduction to Artificial Intelligence: <b>A+ (95)</b></li>
-    </ul>
-    <b>17</b> courses achieved A/A+, including <b>all major-related courses</b>, with <b>9</b> courses earning A+.
-</section>
 
 <footer>
     <p>© 2025 Xiyuan Yang. All rights reserved.</p>
