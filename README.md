@@ -2,27 +2,13 @@
     <h1>Hello, I am Xiyuan Yang! 👋</h1>
 </header>
 
-
 - My research interests lie in **constructing general autonomous agents** and **multi-agent collaborations**.
-    - Current Work about Agentic Tool Usage and MCP for ICLR-2026, [Info-Mosaic](https://dorothyduuu.github.io/Info-Mosaic/).
-    - Currently developing Coding Agent: ProbeCode (<a href="https://github.com/xiyuanyang-code/ProbeCode">Source Code</a>).
-    - Successfully deployed **PaperPulse**, Your Daily Latest Paper Acquisition Assistant, automatically pushing trending papers and Github repos with AI summary.
-        - To the [Latest Release](https://github.com/xiyuanyang-code/PaperPulse/releases/latest). 
+    - Current Work about Agentic Tool Usage and MCP for ICLR-2026, [**Info-Mosaic**](https://dorothyduuu.github.io/Info-Mosaic/).
+    - Search Enhanced Autonomous Agents [**IntelliSearch**](https://github.com/xiyuanyang-code/IntelliSearch) is now open-sourced!
     - More development projects are detailed in [ToolZoo](https://xiyuanyang-code.github.io/Tool-Zoo/developer.html).
-- In my downtime, I like to study stock time series prediction and quantitative factor mining. 
-    - Working on a research project focused on <b>Timing Strategy</b> methodologies.
 - Always writing technical blogs on my personal website: <a href="https://xiyuanyang-code.github.io/">Xiyuan Yang's Blog</a>.
-- My Current Lecture Notes for all kinds of courses.
-    - Link: [My Typst Note](https://github.com/xiyuanyang-code/My-Typst-Note/releases/latest).
-    - As a dedicated Typst enthusiast, I believe LaTeX simply isn't as user-friendly as Typst.😈 
+- Online CV Link: [Xiyuan Yang's CV](https://xiyuanyang-code.github.io/cv)
 
-
-
-<section>
-<h2>About Me</h2>
-<p>I am Xiyuan Yang (杨希渊), a rising sophomore pursuing a Bachelor's degree in <b>Artificial Intelligence</b> at <b>Shanghai Jiao Tong University (SJTU)</b>, School of Artificial Intelligence. My academic interests lie in agents.</p>
-<p>For more information, please goto <a href="https://xiyuanyang-code.github.io/cv">My Resume</a>.</p>
-</section>
 
 <section>
     <h2>Connect with Me</h2>
@@ -36,17 +22,6 @@
         <a href="https://xiyuanyang-code.github.io/cv/">My Resume</a>
     </li>
     
-</section>
-
-<section>
-    <h2>Currently Learning</h2>
-    <ul>
-        <!-- <li>Advanced Algorithms</li> -->
-        <li>Machine Learning and Deep Learning</li>
-        <li>LLM reasoning, LLM agents and Reinforcement Learning</li>
-        <li>Full-stack Development</li>
-        <li>Probability and Statistics</li>
-    </ul>
 </section>
 
 
@@ -70,35 +45,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Matplotlib"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Pandas"/>
 </p>
-    <h3>Machine Learning & Deep Learning</h3>
-    <ul>
-        <li>
-            <span class="fa-li"><i class="fas fa-check"></i></span>
-            Proficient in various neural network architectures and training methodologies.
-        </li>
-        <li>
-            <span class="fa-li"><i class="fas fa-check"></i></span>
-            Familiar with agents.
-        </li>
-        <li>
-            <span class="fa-li"><i class="fas fa-check"></i></span>
-            Skilled in utilizing the PyTorch library.
-        </li>
-    </ul>
 
 </section>
 
 ## 📊 GitHub Stats:
 <section>
-<p><b>I am always an active commiter! Love Coding Everyday! 🫡😍</b></p>
 
 <img src="https://ghchart.rshah.org/xiyuanyang-code" alt="Xiyuan Yang's Github Contributions" />
-
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=xiyuanyang-code&margin-w=20&margin-h=15&no-bg=true&row=1" alt="xiyuanyang-code"/></a> </p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=xiyuanyang-code&show_icons=true&theme=chartreuse&hide_border=false&include_all_commits=true&count_private=true&hide_title=false&show=prs_merged,issues_closed&rank_icon=percentile" alt="xiyuanyang-code" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=xiyuanyang-code&"alt="xiyuanyang-code" /></p>
 
 
 </section>
