@@ -2,6 +2,8 @@
     <h1>Hello, I am Xiyuan Yang! 👋</h1>
 </header>
 
+Xiyuan Yang is now an undergraduate (sophomore) in School of Artificial Intelligence, Shanghai Jiao Tong University (SJTU-SAI)
+
 - My research interests lie in **constructing general autonomous agents** and **multi-agent collaborations**.
     - Current Work about Agentic Tool Usage and MCP for ICLR-2026, [**Info-Mosaic**](https://dorothyduuu.github.io/Info-Mosaic/).
     - Search Enhanced Autonomous Agents [**IntelliSearch**](https://github.com/xiyuanyang-code/IntelliSearch) is now open-sourced!
