@@ -52,6 +52,7 @@
 <section>
 
 <img src="https://ghchart.rshah.org/xiyuanyang-code" alt="Xiyuan Yang's Github Contributions" />
+<img src="./profile-3d-contrib/profile-season-animate.svg" alt="Xiyuan Yang's Github Contributions" />
 
 
 </section>
