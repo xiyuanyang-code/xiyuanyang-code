@@ -4,27 +4,17 @@
 
 Xiyuan Yang is now an undergraduate (sophomore) in School of Artificial Intelligence, Shanghai Jiao Tong University (SJTU-SAI)
 
-- My research interests lie in **constructing general autonomous agents** and **multi-agent collaborations**.
-    - Current Work about Agentic Tool Usage, [**Info-Mosaic**](https://dorothyduuu.github.io/Info-Mosaic/).
-    - Search Enhanced Autonomous Agents [**IntelliSearch**](https://github.com/xiyuanyang-code/IntelliSearch) is now open-sourced!
-    - More development projects are detailed in [ToolZoo](https://xiyuanyang-code.github.io/Tool-Zoo/developer.html).
-- Always writing technical blogs on my personal website: <a href="https://xiyuanyang-code.github.io/">Xiyuan Yang's Blog</a>.
-- Online CV Link: [Xiyuan Yang's CV](https://xiyuanyang-code.github.io/cv)
+[🏠 Personal Blog](https://xiyuanyang-code.github.io) | [📄 Online CV](https://xiyuanyang-code.github.io/cv) | [📧 Email Me](mailto:yangxiyuan@sjtu.edu.cn)
 
+My research interests lie in **constructing general autonomous agents** and **multi-agent collaborations**. 
 
-<section>
-    <h2>Connect with Me</h2>
-    <li>
-        <a href="https://xiyuanyang-code.github.io">My personal Blog</a>
-    </li>
-    <li>
-        <a href="mailto:yangxiyuan@sjtu.edu.cn">yangxiyuan@sjtu.edu.cn</a>
-    </li>
-    <li>
-        <a href="https://xiyuanyang-code.github.io/cv/">My Resume</a>
-    </li>
-    
-</section>
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **Info-Mosaic** | Agentic Tool Usage & Information Integration | [Paper Link](https://dorothyduuu.github.io/Info-Mosaic/) |
+| **IntelliSearch** | Search Enhanced Autonomous Agents | [GitHub](https://github.com/xiyuanyang-code/IntelliSearch) |
+| **E³-ML-Master** | Self-Evolving Envisioning-Executing System | [GitHub](https://github.com/xiyuanyang-code/AI1811-E3-ML-Master) |
+
+ More development projects are detailed in [ToolZoo](https://xiyuanyang-code.github.io/Tool-Zoo/developer.html).
 
 
 <section>
