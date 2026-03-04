@@ -8,6 +8,7 @@ Xiyuan Yang is now an undergraduate (sophomore) in School of Artificial Intellig
 <a href="https://xiyuanyang-code.github.io" target="_blank"><img src="https://img.shields.io/badge/🏠-Personal Blog-green.svg" alt="Webpage"/></a>  
 <a href="https://xiyuanyang-code.github.io/cv" target="_blank"><img src="https://img.shields.io/badge/📄-Online CV-red.svg" alt="online cv"/></a>
 <a href="https://github.com/xiyuanyang-code/resume/releases/latest/download/XiyuanYang-Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/📑-PDF Resume-pink.svg" alt="pdf resume"/></a>
+<a href="https://github.com/xiyuanyang-code/whoami" target="_blank"><img src="https://img.shields.io/badge/😆-Who Am I-purple.svg" alt="pdf resume"/></a>
 <a href="mailto:yangxiyuan@sjtu.edu.cn" target="_blank"><img src="https://img.shields.io/badge/📧-Emails-blue.svg" alt="emails"/></a>
 </div>
 
